@@ -1,0 +1,40 @@
+import type { BasicConfig, ThemeConfig } from '../types/config';
+
+export const DEFAULT_BASIC: BasicConfig = {
+  enable: true,
+  nocompatible: true,
+  mouse: "a",
+  number: true,
+  relativenumber: true,
+  cursorline: true,
+  wrap: true,
+  tabstop: 2,
+  shiftwidth: 2,
+  expandtab: true,
+  autoindent: true,
+  smartindent: true,
+  hlsearch: true,
+  incsearch: true,
+  ignorecase: true,
+  smartcase: true,
+  showcmd: true,
+  showmode: true,
+  showmatch: true,
+  wildmenu: true,
+  backup: true,
+  write: true,
+  swapfile: true,
+};
+
+export const DEFAULT_THEME: ThemeConfig = {
+  colorscheme: "gruvbox",
+  background: "dark",
+  terminalColor0: "#282828",
+  terminalColor1: "#cc241d",
+  terminalColor2: "#98971a",
+  terminalColor3: "#d79921",
+  terminalColor4: "#458588",
+  terminalColor5: "#b16286",
+  terminalColor6: "#689d6a",
+  terminalColor7: "#a89984",
+};
