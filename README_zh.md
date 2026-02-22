@@ -33,6 +33,28 @@
   - 英文和中文语言支持
   - 单击切换语言
 
+## 界面截图
+
+### 基础设置
+
+<img src="docs/images/basic_zh.png" alt="基础设置" width="800"/>
+
+### 主题配置
+
+<img src="docs/images/theme_zh.png" alt="主题配置" width="800"/>
+
+### 插件管理
+
+<img src="docs/images/plugin_zh.png" alt="插件管理" width="800"/>
+
+### 使用指南
+
+<img src="docs/images/usage_zh.png" alt="使用指南" width="800"/>
+
+### 配置预览
+
+<img src="docs/images/config_zh.png" alt="配置预览" width="800"/>
+
 ## 安装
 
 ```bash

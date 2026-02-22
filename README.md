@@ -33,6 +33,28 @@ A visual Vim configuration generator that helps you create `.vimrc` files throug
   - English and Chinese language support
   - Language switch with a single click
 
+## Screenshots
+
+### Basic Settings
+
+<img src="docs/images/basic_en.png" alt="Basic Settings" width="800"/>
+
+### Theme Configuration
+
+<img src="docs/images/theme_en.png" alt="Theme Configuration" width="800"/>
+
+### Plugin Management
+
+<img src="docs/images/plugin_en.png" alt="Plugin Management" width="800"/>
+
+### Usage Guide
+
+<img src="docs/images/usage_en.png" alt="Usage Guide" width="800"/>
+
+### Configuration Preview
+
+<img src="docs/images/config_en.png" alt="Configuration Preview" width="800"/>
+
 ## Installation
 
 ```bash
